@@ -89,15 +89,12 @@ section {
     padding: 20px;
 }
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #913a3a;
+    color: rgb(167, 84, 84);
     text-align: center;
     padding: 10px 0;
     position: fixed;
     width: 100%;
     bottom: 0;
-}
-footer p {
-    margin: 0;
 }
 --- IGNORE ---
