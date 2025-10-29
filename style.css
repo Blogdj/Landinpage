@@ -43,6 +43,19 @@ class .principal-destaque {
 class .principal-destaque h1 {
     margin-bottom: 10px;
 }
+h1 {
+    font-size: 24px;
+    color: #2d7930;
+    text-align: center;
+    padding: auto;
+}
+p {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #34073d;
+    text-align: center;
+    padding: auto;
+}
 class .principal-destaque p {
     font-size: 18px;
     line-height: 1.6;
